@@ -2,7 +2,7 @@
 # Developer - Khushi Saxena
 
 # Task
-> Payment Gateway Integration - https://github.com/Khushi2217/Payment-Gateway-Integration/upload/main
+> Payment Gateway Integration - https://github.com/Khushi2217/Payment-Gateway-Integration
 
 ## Table of contents
 * Homepage
